@@ -1,0 +1,20 @@
+{
+  "name": "Gwent Classic Offline",
+  "short_name": "Gwent Classic",
+  "description": "A fully local browser remake of classic Gwent.",
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
